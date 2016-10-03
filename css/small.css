@@ -1,0 +1,38 @@
+.marriage1 {
+	padding: 3px 6px 3px 6px;
+}
+
+.marriage1 img {
+	padding: 0;
+}
+
+.marriage2 img {
+	padding: 0;
+	margin: 0;
+}
+
+.marriage2 {
+	padding: 3px 6px 3px 6px;
+}
+.marriage2 p {
+	padding-right: 5px;
+	padding-left: 13px;
+}
+
+#work p {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+/* Masonry */
+
+.grid-item {
+  float: left;
+  width: 80%;
+  height: 300px;
+  border: 2px solid hsla(0, 0%, 0%, 0.5);
+  margin-bottom: 10px;
+}
+
+
+
