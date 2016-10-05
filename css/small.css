@@ -3,21 +3,10 @@
 }
 
 .marriage1 img {
-	padding: 0;
+	padding: 2px 0 0 0;
 }
 
-.marriage2 img {
-	padding: 0;
-	margin: 0;
-}
 
-.marriage2 {
-	padding: 3px 6px 3px 6px;
-}
-.marriage2 p {
-	padding-right: 5px;
-	padding-left: 13px;
-}
 
 #work p {
 	padding-left: 10px;
@@ -28,10 +17,29 @@
 
 .grid-item {
   float: left;
-  width: 80%;
+  width: 100%;
   height: 300px;
   border: 2px solid hsla(0, 0%, 0%, 0.5);
-  margin-bottom: 10px;
+  /*margin-bottom: 10px;*/
+}
+
+#face {
+	float: left;
+}
+
+#coladv {
+  background-color: rgba(233,233,233,.7);
+  width: 300px;
+}
+
+.sports img {
+  width: 70%;
+  padding-left: 40px;
+  padding-bottom: 20px;
+}
+
+#footer {
+	padding-left: 35%;
 }
 
 

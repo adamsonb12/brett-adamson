@@ -3,13 +3,14 @@ var msnry = new Masonry( elem, {
   // options
   itemSelector: '.grid-item',
   columnWidth: 200
+  transitionDuration: '0.8s';
 });
 
 // element argument can be a selector string
 //   for an individual element
 var msnry = new Masonry( '.grid', {
   // options
-    gutter: 10
+    gutter: 0
 });
 
 // init Masonry
